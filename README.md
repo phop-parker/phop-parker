@@ -25,8 +25,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/phop-parker/phop-parker/blob/output/snake.svg" alt="Snake animation" />
-
-###
